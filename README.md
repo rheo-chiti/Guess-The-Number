@@ -1,5 +1,5 @@
 # Guess-The-Number
-```This application guess the number choosen by user and also tells the number of moves taken.```
+```This application guess the number choosen by user and also displays the number of moves taken.```
 ## Screenshots
 <pre>Start Game Screen                 Game Screen                        Game Over Screen</pre>
 <p float="left" >
@@ -40,7 +40,7 @@
 
 
 ## How this app works  
-User choose a number between ```1 and 99``` and then starts the game.After that the computer tries to guess the number and the user tells whether the predicted number is less than the choosen number or greater than the choosen number. If the user tries to give the wrong instructions an alert dialog is displayed. After getting the instruction, computer again display another number by the help of a ```random function```. All the guesses made by the computer is also displayed on GameScreen with the help of [FlatList](https://facebook.github.io/react-native/docs/flatlist). When the computer guess the choosen number , number of rounds to reach the choosen number is also displayed.  
+User choose a number between ```1 and 99``` and then starts the game.After that the computer tries to guess the number and the user hints whether the predicted number is less than the choosen number or greater than the choosen number. If the user tries to give the wrong instructions, an alert dialog is displayed. After getting the instruction, computer again displays another number by the help of a ```random function```. All the guesses made by the computer is also displayed on GameScreen with the help of [FlatList](https://facebook.github.io/react-native/docs/flatlist). When the computer guess the choosen number,game ends and number of rounds to reach the choosen number is also displayed.  
 
 ## Future Features  
 - UI Improvements/Animations  
