@@ -1,5 +1,5 @@
 # Guess-The-Number
-```This application tries to guess the user number and also tells the number of moves taken.```
+```This application guess the number choosen by user and also tells the number of moves taken.```
 ## Screenshots
 <pre>Start Game Screen                 Game Screen                        Game Over Screen</pre>
 <p float="left" >
