@@ -3,9 +3,9 @@
 ## Screenshots
 <pre>Start Game Screen                 Game Screen                        Game Over Screen</pre>
 <p float="left" >
-<img src="https://github.com/rheo-chiti/Guess-The-Number/blob/master/Images/StartGameScreen.jpeg" width=250 height=400 hspace="10"  title="Start Game Screen" alt="gfdfjgd"/>
-<img src="https://github.com/rheo-chiti/Guess-The-Number/blob/master/Images/GameScreen.jpeg" width=250 height=400  title="Game Screen" alt="gfdfjgd" hspace="10"/>
-<img src="https://github.com/rheo-chiti/Guess-The-Number/blob/master/Images/GameOverScreen.jpeg" width=250 height=400  title="Game Screen" alt="gfdfjgd" hspace="10"/>
+<img src="https://github.com/rheo-chiti/Guess-The-Number/blob/master/Images/StartGameScreen.jpeg" width=250 height=400 hspace="10"  title="Start Game Screen" alt="Start Game Screen"/>
+<img src="https://github.com/rheo-chiti/Guess-The-Number/blob/master/Images/GameScreen.jpeg" width=250 height=400  title="Game Screen" alt="Game Screen" hspace="10"/>
+<img src="https://github.com/rheo-chiti/Guess-The-Number/blob/master/Images/GameOverScreen.jpeg" width=250 height=400  title="Game Over Screen" alt="Game Over Screen" hspace="10"/>
 </p>
 
 
@@ -13,7 +13,7 @@
 
 - Install node from [here](https://nodejs.org/en/)  
 - Install npm and expo  
-- Install expo client for your [device](https://docs.expo.io/versions/latest/get-started/installation/)  
+- Install expo client for your device from [here](https://docs.expo.io/versions/latest/get-started/installation/)  
 - Install Visual Studio Code from [here](https://code.visualstudio.com/)  
 - Install Git from [here](https://git-scm.com/downloads)  
 - Fork the repository  
