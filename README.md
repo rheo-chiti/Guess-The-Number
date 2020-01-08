@@ -1,4 +1,4 @@
-# Guess-The-Number
+# Guess The Number
 ```This application guess the number choosen by user and also displays the number of moves taken.```
 ## Screenshots
 <pre>Start Game Screen                 Game Screen                        Game Over Screen</pre>
