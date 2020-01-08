@@ -14,6 +14,12 @@
 - Computer will try to guess the number   
 - Final screen displays the number of guesses made by the computer
 
-## Technologies Used
+## Technologies  
+- [React Native](https://facebook.github.io/react-native/docs/tutorial)  
 
-- []()  
+## Components   
+- [Card](https://github.com/rheo-chiti/Guess-The-Number/blob/master/components/Card.js)   
+- [Number Container](https://github.com/rheo-chiti/Guess-The-Number/blob/master/components/NumberContainer.js)   
+- [Body Text](https://github.com/rheo-chiti/Guess-The-Number/blob/master/components/BodyText.js)  
+
+## 
